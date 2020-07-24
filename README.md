@@ -1,4 +1,4 @@
-# Zen Garden
+git # Zen Garden
 
 1. Once you have forked and cloned this repo, navigate into it and create a new branch called `zen-garden-tidy` (hint: `git checkout -b zen-garden-tidy`)
 
